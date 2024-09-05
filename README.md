@@ -61,5 +61,5 @@
 
 <h3 align="left">📖 Latest Posts and News</h3>
 <!-- LATEST-POSTS-AND-NEWS:START -->
-- **Comming soon** 
+- **coming soon** 
 <!-- LATEST-POSTS-AND-NEWS:END -->
