@@ -13,6 +13,7 @@
 
 - 🔭 I’m currently a [Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
 - 🌱 I’m learning about **Trustworthy AI and Generative AI**
+- 🌱 I’m looking to collaborate on computer vision-related projects
 - 💬 Ask me about **AI, Machine Learning, and Data Science**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 - ⚡ Fun fact: **I like sleeping too much**
