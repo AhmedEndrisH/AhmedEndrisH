@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Aspiring AI engineer</h3>
-
-img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpOV1cr3_xxwA4blwQF-J1MwuIcKBUN2YYQ&s.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedendrish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ahmed_endris121" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmed_endris121?logo=twitter&style=for-the-badge" alt="@ahmed_endris121" /></a> </p>
