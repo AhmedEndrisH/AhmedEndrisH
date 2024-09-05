@@ -61,5 +61,5 @@
 
 <h3 align="left">📖 Latest Posts and News</h3>
 <!-- LATEST-POSTS-AND-NEWS:START -->
-- **I moved to Finland,09/12/24** - A brief description or link to the news.
+- **I moved to Finland, 09/12/24** 
 <!-- LATEST-POSTS-AND-NEWS:END -->
