@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Aspiring AI Engineer</h3>
 
 <p align="left">
@@ -59,10 +59,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedendrish&" alt="ahmedendrish" />
 </p>
 
-<h3 align="left">📕 Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">📰 Latest News</h3>
-<!-- NEWS-LIST:START -->
-<!-- NEWS-LIST:END -->
+<h3 align="left">📖 Latest Posts and News</h3>
+<!-- LATEST-POSTS-AND-NEWS:START -->
+- **I moved to Finland,09/12/24** - A brief description or link to the news.
+<!-- LATEST-POSTS-AND-NEWS:END -->
