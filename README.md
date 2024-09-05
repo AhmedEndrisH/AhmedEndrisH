@@ -61,5 +61,5 @@
 
 <h3 align="left">📖 Latest Posts and News</h3>
 <!-- LATEST-POSTS-AND-NEWS:START -->
-- **I moved to Finland, 09/12/24** 
+- **Comming soon** 
 <!-- LATEST-POSTS-AND-NEWS:END -->
