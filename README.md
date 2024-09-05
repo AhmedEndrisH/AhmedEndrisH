@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Aspiring AI Engineer</h3>
 
-<p align="center">
-    <img src="[https://your-repo-url/AA.png](https://raw.githubusercontent.com/AhmedEndrisH/AhmedEndrisH/main/AA.png)" alt="Ahmed's Image" width="300"/> <!-- Adjust the width as needed -->
-</p>
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedendrish" />
 </p>
