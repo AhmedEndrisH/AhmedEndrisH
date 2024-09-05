@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer</h3>
 
 <p align="center">
-    <img src="https://your-repo-url/AA.png" alt="Ahmed's Image" width="300"/> <!-- Adjust the width as needed -->
+    <img src="[https://your-repo-url/AA.png](https://raw.githubusercontent.com/AhmedEndrisH/AhmedEndrisH/main/AA.png)" alt="Ahmed's Image" width="300"/> <!-- Adjust the width as needed -->
 </p>
 
 <p align="left">
