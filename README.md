@@ -14,7 +14,7 @@
 - 🔭 I’m currently a [Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
 - 🌱 I’m learning about **Trustworthy AI and Generative AI**
 - 👯 I’m looking to collaborate on **computer vision related projects**
-- 💬 Ask me about **AI, Machine Learning, and Data Science**
+- 💬 Ask me about **AI, Deep Learning, and Data Science**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 - ⚡ Fun fact: **I’ve tried to explain injera to my friends, and they still think it’s a pancake!** 😊
 
