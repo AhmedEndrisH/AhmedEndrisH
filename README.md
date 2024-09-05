@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **computer vision related projects**
 - 💬 Ask me about **AI, Machine Learning, and Data Science**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
-- ⚡ Fun fact: **I’ve tried to explain injera to my friends, and they still think it’s a pancake!**
+- ⚡ Fun fact: **I’ve tried to explain injera to my friends, and they still think it’s a pancake!** 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
