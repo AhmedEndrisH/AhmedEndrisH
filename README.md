@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ahmed_endris121" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmed_endris121?logo=twitter&style=for-the-badge" alt="@ahmed_endris121" /></a> </p>
 
-- 🔭 I’m currently [A Doctoral Researcher at FCAI](https://fcai.fi/)
+- 🔭 I’m currently [A Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
 
 - 🌱 I’m currently learning about **Trustworthy AI and Generative AI**
 
