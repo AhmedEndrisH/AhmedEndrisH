@@ -2,14 +2,10 @@
 <h3 align="center">Aspiring AI Engineer</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20Viewer&color=0e75b6&style=flat" alt="ahmedendrish" />
-</p>
-<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedendrish" />
     <a href="https://linkedin.com/in/ahmed-endris-b99029200/" target="blank">
         <img src="https://img.shields.io/badge/Follow%20%40LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-</p>
-<p align="left">
     <a href="https://twitter.com/@ahmed_endris121" target="blank">
         <img src="https://img.shields.io/badge/Follow%20%40Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
