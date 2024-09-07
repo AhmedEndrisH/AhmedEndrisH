@@ -3,14 +3,20 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedendrish" />
+    <a href="https://linkedin.com/in/ahmed-endris-b99029200/" target="blank">
+        <img src="https://img.shields.io/badge/Follow%20%40LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/@ahmed_endris121" target="blank">
+        <img src="https://img.shields.io/badge/Follow%20%40Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
 </p>
 
-- 🔭 I’m currently a [Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
-- 🌱 I’m learning about **Trustworthy AI and Generative AI**
-- 👯 I’m looking to collaborate on **computer vision related projects**
+- 🔭 I'm currently a [Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
+- 🌱 I'm learning about **Trustworthy AI and Generative AI**
+- 👯 I'm looking to collaborate on **computer vision related projects**
 - 💬 Ask me about **AI, Deep Learning, and Data Science**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
-- ⚡ Fun fact: **I’ve tried to explain injera to my friends, and they still think it’s a pancake!** 😊
+- ⚡ Fun fact: **I've tried to explain injera to my friends, and they still think it's a pancake!** 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
