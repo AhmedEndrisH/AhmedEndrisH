@@ -19,8 +19,6 @@
 - 💬 Ask me about **AI, Deep Learning, and Data Science**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 - ⚡ Fun fact: **I've tried to explain injera to my friends, and they still think it's a pancake!** 😊
-- 🏆 My current seat grade: **B+**
-- 📊 Most used languages: **Python, Jupyter Notebook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -113,3 +111,8 @@
 <!-- LATEST-POSTS-AND-NEWS:START -->
 - **coming soon** 
 <!-- LATEST-POSTS-AND-NEWS:END -->
+
+<p align="center">
+- 🏆 My current seat grade: **C**
+- 📊 Most used languages: **Jupyter Notebook, Python**
+</p>
