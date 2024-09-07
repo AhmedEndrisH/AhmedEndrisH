@@ -71,6 +71,12 @@
     <a href="https://www.tableau.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
     </a> ||
+    <a href="https://www.slicer.org/" target="_blank">
+        <img src="https://img.shields.io/badge/3D%20Slicer-5C3EE8?style=flat&logo=3d-slicer&logoColor=white" alt="3D Slicer" />
+    </a>
+    <a href="https://www.mrtrix.org/" target="_blank">
+        <img src="https://img.shields.io/badge/MRtrix3-FF6F20?style=flat&logo=mrtrix&logoColor=white" alt="MRtrix3" />
+    </a> ||
     <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
     </a>
