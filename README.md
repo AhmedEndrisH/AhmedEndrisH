@@ -36,11 +36,54 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    Programming Languages (Python, Matlab, Java) || 
-    Python Frameworks (PyTorch, TensorFlow, OpenCV, Pandas, NumPy) || 
-    Data Mining & Analysis (MySQL, Excel, Tableau) || 
-    Full Stack Web Development (HTML, CSS, JS) || 
-    Version Control (Git, GitHub)
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white" alt="Matlab" />
+    </a>
+    <a href="https://www.oracle.com/java/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+    </a> ||
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    </a>
+    <a href="https://opencv.org/" target="_blank">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+    </a> ||
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    </a>
+    <a href="https://www.tableau.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+    </a> ||
+    <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a> ||
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
