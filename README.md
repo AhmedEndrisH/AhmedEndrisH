@@ -111,8 +111,3 @@
 <!-- LATEST-POSTS-AND-NEWS:START -->
 - **coming soon** 
 <!-- LATEST-POSTS-AND-NEWS:END -->
-
-<p align="center">
-- 🏆 My current seat grade: **C**
-- 📊 Most used languages: **Jupyter Notebook, Python**
-</p>
