@@ -29,6 +29,9 @@
     <a href="https://kaggle.com/ahmedendris" target="blank">
         <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
+    <a href="https://x.com/Ahmed_Endris121" target="blank">
+        <img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,17 +39,41 @@
     <a href="https://www.python.org" target="_blank">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <a href="https://www.mathworks.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white" alt="Matlab" />
+    </a>
+    <a href="https://www.oracle.com/java/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
     </a>
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    </a>
+    <a href="https://opencv.org/" target="_blank">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    </a>
+    <a href="https://www.tableau.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a>
 </p>
 
