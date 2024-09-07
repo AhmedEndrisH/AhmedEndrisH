@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ahmed</h1>
-<h3 align="center"> A Passionate AI Engineer and Researcher </h3>
+<h3 align="center">A Passionate AI Engineer and Researcher</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedendrish" />
@@ -19,6 +19,8 @@
 - 💬 Ask me about **AI, Deep Learning, and Data Science**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 - ⚡ Fun fact: **I've tried to explain injera to my friends, and they still think it's a pancake!** 😊
+- 🏆 My current seat grade: **B+**
+- 📊 Most used languages: **Python, Jupyter Notebook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +42,9 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Jupyter-DA5B0C?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
     </a>
     <a href="https://www.mathworks.com/" target="_blank">
         <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white" alt="Matlab" />
