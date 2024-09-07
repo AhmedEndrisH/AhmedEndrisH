@@ -2,12 +2,16 @@
 <h3 align="center">Aspiring AI Engineer</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedendrish" />
+    <img src="https://komarev.com/ghpvc/?username=ahmedendrish&label=Profile%20Viewer&color=0e75b6&style=flat" alt="ahmedendrish" />
+</p>
+<p align="left">
     <a href="https://linkedin.com/in/ahmed-endris-b99029200/" target="blank">
         <img src="https://img.shields.io/badge/Follow%20%40LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+</p>
+<p align="left">
     <a href="https://twitter.com/@ahmed_endris121" target="blank">
-        <img src="https://img.shields.io/badge/Follow%20%40Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+        <img src="https://img.shields.io/badge/Follow%20%40Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
 </p>
 
@@ -22,9 +26,6 @@
 <p align="left">
     <a href="https://linkedin.com/in/ahmed-endris-b99029200/" target="blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/@ahmed_endris121" target="blank">
-        <img align="center" src="https://img.shields.io/twitter/follow/@ahmed_endris121?logo=twitter&style=for-the-badge" alt="@ahmed_endris121" />
     </a>
     <a href="https://kaggle.com/ahmedendris" target="blank">
         <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
