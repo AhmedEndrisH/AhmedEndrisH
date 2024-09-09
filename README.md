@@ -41,9 +41,6 @@
     <a href="https://www.python.org" target="_blank">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     </a>
-    <a href="https://jupyter.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Jupyter-DA5B0C?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-    </a>
     <a href="https://www.mathworks.com/" target="_blank">
         <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white" alt="Matlab" />
     </a>
