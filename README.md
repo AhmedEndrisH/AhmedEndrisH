@@ -4,8 +4,8 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=AhmedEH28&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedEH28" />
 </p>
-<p align="left">
-    <a href="https://linkedin.com/in/ahmed-endris-b99029200/" target="blank">
+<p align="left"> 
+    <a href="https://linkedin.com/in/ahmed-endris-hasen-b99029200/" target="blank">
         <img src="https://img.shields.io/badge/Follow%20%40LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
